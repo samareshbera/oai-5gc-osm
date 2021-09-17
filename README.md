@@ -1,6 +1,6 @@
 # oai-5gc-osm
 
-1. For helm-chart installation, see [here]()
+1. For helm-chart installation, see [here](https://github.com/samareshbera/oai-5gc-osm/blob/main/helm-chart.md)
 
 2. For juju-charm installation, see [here]()
 
